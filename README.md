@@ -32,8 +32,8 @@ Users should be able to:
 ![Desktop](Capture039.png)
 ### Links
 
-- Solution URL: (https://github.com/ibimina/even-odd-prime-no-react-class)
-- Live Site URL: (https://ibimina.github.io/even-odd-prime-no-react-class/)
+- Solution URL: (https://github.com/ibimina/number-class)
+- Live Site URL: (https://ibimina.github.io/number-class/)
 
 ## My process
 
