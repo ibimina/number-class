@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/number-class/static/css/main.53908349.css",
+    "main.js": "/number-class/static/js/main.b96e3020.js",
+    "index.html": "/number-class/index.html",
+    "main.53908349.css.map": "/number-class/static/css/main.53908349.css.map",
+    "main.b96e3020.js.map": "/number-class/static/js/main.b96e3020.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53908349.css",
+    "static/js/main.b96e3020.js"
+  ]
+}
